@@ -4,6 +4,7 @@ Algorithm takes a COVID-19 related tweet as input and recommends 3 similar COVID
 Data from kaggle.com/datatattle/covid-19-nlp-text-classification
 
 Example input and output:
+
 Input: "This pandemic is horrible! I wish someone would hurry up and invent a vaccine 
 @Pfizer @Moderna"
 
